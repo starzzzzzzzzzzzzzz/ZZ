@@ -1,0 +1,6 @@
+# ... existing requirements ...
+
+# 语义搜索相关依赖
+scikit-learn>=1.0.2
+jieba>=0.42.1
+numpy>=1.21.0 
